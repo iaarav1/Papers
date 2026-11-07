@@ -12,7 +12,7 @@ Two things have happened at once: Lyme disease has spread to cover the entire st
 
 ## What is Lyme Disease
 
-Lyme disease is a [zoonotic](https://www.niaid.nih.gov/diseases-conditions/zoonotic-diseases) (meaning it spreads from animals to humans) bacterial infection spread by ticks. In fact, it is the [most common illness spread by ticks](https://www.dhs.wisconsin.gov/tick/lyme.htm) in the state.
+Lyme disease is a [zoonotic](https://www.cdc.gov/one-health/about/about-zoonotic-diseases.html) (meaning it spreads from animals to humans) bacterial infection spread by ticks. In fact, it is the [most common illness spread by ticks](https://www.dhs.wisconsin.gov/tick/lyme.htm) in the state.
 
 <img src="image1.png" alt="bullseye-shaped-rash" width="600">
 
@@ -117,7 +117,7 @@ Here are some easy things you can do:
 - Check your whole body and your pets for ticks after being outdoors. Don’t forget your scalp, behind your knees, and your underarms.
 - Take a shower soon after coming inside. This can help remove ticks.
 
-If you find a tick, it’s important to take it off right away using fine-tipped tweezers. Here’s how to do it safely: [CDC Tick Removal Guide](https://www.cdc.gov/ticks/removing_a_tick.html)
+If you find a tick, it’s important to take it off right away using fine-tipped tweezers. Here’s how to do it safely: [CDC Tick Removal Guide](https://www.cdc.gov/ticks/after-a-tick-bite/index.html).
 
 ## Tick Life Cycle
 
@@ -153,8 +153,8 @@ Next Up: We are currently working on a predictive simulation to better map out t
 ## Glossary
 
 - **Zoonotic**: A disease that spreads from animals to humans. [NIH Source](https://www.niaid.nih.gov/diseases-conditions/zoonotic-diseases)
-- **Physiology** (body systems): How a disease affects the body’s systems (like your brain, nerves, or joints). [NIH Lyme Disease](https://www.ninds.nih.gov/health-information/disorders/lyme-disease)
-- **Inflammation**: When your body reacts to infection or injury and the area gets red or swollen. [NIAMS Inflammation](https://www.niams.nih.gov/health-topics/inflammation)
+- **Physiology** (body systems): How a disease affects the body’s systems (like your brain, nerves, or joints). [NIH Lyme Disease](https://www.niaid.nih.gov/diseases-conditions/lyme-disease)
+- **Inflammation**: When your body reacts to infection or injury and the area gets red or swollen. [NIAMS Inflammation](https://www.niehs.nih.gov/health/topics/conditions/inflammation)
 - **Tick life stages**: Ticks grow from larvae to nymphs and then to adults. Ticks usually spread Lyme disease to people when they are nymphs. [CDC Tick Life Cycle](https://www.cdc.gov/ticks/about/tick-lifecycles.html?CDC_AAref_Val=https://www.cdc.gov/ticks/life_cycle_and_hosts.html)
 - ***Borrelia burgdorferi***: The bacteria responsible for Lyme disease.
 
@@ -176,7 +176,7 @@ Next Up: We are currently working on a predictive simulation to better map out t
 
 7. Centers for Disease Control and Prevention. *Lyme disease surveillance data*. [https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html). Accessed October 10, 2026.
 
-8. Milwaukee Journal Sentinel. (2024). Wisconsin tick population thriving early in 2024 due to warmest winter. Republished by AOL: [https://www.aol.com/news/tick-population-wisconsin-thriving-months-163501355.html](https://www.aol.com/news/tick-population-wisconsin-thriving-months-163501355.html).
+8. Milwaukee Journal Sentinel. (2024). Wisconsin tick population thriving early in 2024 due to warmest winter. Republished by AOL: [https://www.aol.com/news/tick-population-wisconsin-thriving-months-163501355.html](https://www.wuwm.com/environment/2024-03-12/as-wisconsin-winters-warm-its-the-end-of-tick-season-as-we-know-it).
 
 9. Image credits: bullseye rash, [Centers for Disease Control and Prevention](https://www.cdc.gov/lyme/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/lyme/signs_symptoms/index.html); *Borrelia burgdorferi*, [Global Lyme Alliance](https://www.globallymealliance.org/news/yale-scientists-unlock-new-insight-into-the-lyme-disease-bacterium); tick life stages, [LSU AgCenter](https://www.lsuagcenter.com/articles/page1776173280639) (image by [TickEncounter, University of Rhode Island](https://web.uri.edu/tickencounter/)).
 
