@@ -40,7 +40,7 @@ Sometimes Lyme disease can cause problems with your brain and nervous system. *B
 
 Doctors are still studying exactly how all this happens, but most people do get better if they see a doctor soon and get treatment.
 
-<img src="image3.png" alt="borrelia burgdoferi" width="600”> 
+<img src="image3.png" alt="borrelia burgdoferi" width="600"> 
 
 _Borrelia burgdorferi, the bacteria that causes Lyme disease Image Credit: [Global Lyme Alliance](https://www.globallymealliance.org/news/yale-scientists-unlock-new-insight-into-the-lyme-disease-bacterium)_
 
