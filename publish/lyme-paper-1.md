@@ -2,7 +2,7 @@
 
 By Aarav Coppisetty, Dr. Brooke Crotty
 
-Lyme disease has quietly become a Wisconsin problem. Today, according to CDC data, Wisconsin is among the [top 10 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html?CDC_AAref_Val=https://www.cdc.gov/lyme/datasurveillance/index.html#cdc_data_surveillance_section_1-interactive-data) with the highest number of reported Lyme disease cases. The goal of this article is to help people in Wisconsin understand Lyme Disease, a fast-spreading, serious illness caused by the bacteria *Borrelia burgdorferi*.
+Lyme disease has quietly become a Wisconsin problem. According to CDC data, Wisconsin is among the [top 10 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html?CDC_AAref_Val=https://www.cdc.gov/lyme/datasurveillance/index.html#cdc_data_surveillance_section_1-interactive-data) with the highest number of reported Lyme disease cases. Wisconsin had 8,929 cases of Lyme disease in 2025, [the highest on record](https://www.dhs.wisconsin.gov/tick/lyme-data.htm). The goal of this article is to help people in Wisconsin understand Lyme Disease, a fast-spreading, serious illness caused by the bacteria *Borrelia burgdorferi*.
 
 <img width="763" height="510" alt="Screenshot 2026-11-07 at 4 48 53 PM" src="https://github.com/user-attachments/assets/28896718-1c24-4e6b-b70c-86fe67b73336" />
 
@@ -50,7 +50,7 @@ _Borrelia burgdorferi, the bacteria that causes Lyme disease Image Credit: [Glob
 
 Lyme disease comes from the bite of a blacklegged tick. Here’s how it usually happens:
 
-Ticks pick up the Lyme bacteria when they bite white-footed mice. Deer can also carry lots of ticks, but they don’t get sick themselves because their bodies fight off the bacteria. Once a tick bites a person, it usually needs to stay attached for [36 to 48 hours](https://www.cdc.gov/lyme/causes/index.html) to spread the bacteria. That’s why it is super important to check your skin after you’ve been outside hiking, camping, or even playing in tall grass.
+Ticks pick up the Lyme bacteria when they bite white-footed mice. Deer can also carry lots of ticks, but they don’t get sick themselves because their bodies fight off the bacteria. Once a tick bites a person, it usually needs to stay attached for [more than 24 hours](https://www.cdc.gov/lyme/causes/index.html) to spread the bacteria. That’s why it is super important to check your skin after you’ve been outside hiking, camping, or even playing in tall grass.
 
 The good news is that Lyme disease cannot spread from one person to another, so you can’t catch it from your friends or family.
 
@@ -90,7 +90,7 @@ Let’s see how many cases of Lyme disease were reported over time. The blue dot
 
 <img src="image6.png" alt="Reported Lyme cases 1995" width="400">
 
-_Reported cases of Lyme disease in 1995. Image Credit: [CDC](https://www.cdc.gov/lyme/data-research/facts-stats/lyme-disease-case-map.html#cdc_data_surveillance_section_3-reported-cases-of-lyme-disease-2010)_
+_Reported cases of Lyme disease in 1995. Image Credit: [CDC](https://www.cdc.gov/lyme/data-research/facts-stats/lyme-disease-case-map.html#cdc_data_surveillance_section_3-reported-cases-of-lyme-disease-1995)_
 
 <img src="image9.png" alt="Reported Lyme cases 2010" width="400">
 
