@@ -4,6 +4,8 @@ By Aarav Coppisetty, Dr. Brooke Crotty
 
 Lyme disease has quietly become a Wisconsin problem. Today, according to CDC data, Wisconsin is among the [top 10 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html?CDC_AAref_Val=https://www.cdc.gov/lyme/datasurveillance/index.html#cdc_data_surveillance_section_1-interactive-data) with the highest number of reported Lyme disease cases. The goal of this article is to help people in Wisconsin understand Lyme Disease, a fast-spreading, serious illness caused by the bacteria *Borrelia burgdorferi*.
 
+<img width="763" height="510" alt="Screenshot 2026-11-07 at 4 48 53 PM" src="https://github.com/user-attachments/assets/28896718-1c24-4e6b-b70c-86fe67b73336" />
+
 We want you to know how to protect yourself and your loved ones, recognize the signs of infection, and seek medical care quickly if needed. By staying informed, you can stay safe and get the right treatment as soon as possible.
 
 Two things have happened at once: Lyme disease has spread to cover the entire state, and within that area it has grown far more common. No single cause explains both.
