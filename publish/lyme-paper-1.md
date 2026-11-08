@@ -1,6 +1,6 @@
 # Lyme Disease in Wisconsin: What You Need to Know
 
-By Aarav Coppisetty, [Dr. Brooke Crotty](https://www.linkedin.com/in/b-crotty/) <br>
+By [Aarav Coppisetty](https://iaarav1.github.io/Papers/), [Dr. Brooke Crotty](https://www.linkedin.com/in/b-crotty/) <br>
 _Published November 8, 2026_
 
 ## TL;DR
