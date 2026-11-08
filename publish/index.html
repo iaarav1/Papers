@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aarav Coppisetty</title>
+  <meta name="description" content="Aarav Coppisetty: 9th grader at Hamilton High School in Sussex, WI. Aspiring clinical pathologist, programmer, tech enthusiast and dino nerd.">
+  <style>
+    :root {
+      --bg: #f5f7f2;
+      --card: #ffffff;
+      --ink: #1c2a22;
+      --muted: #56665c;
+      --accent: #2f6b4f;
+      --accent-soft: #e3eee6;
+      --line: #dbe4dc;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121814;
+        --card: #1b231e;
+        --ink: #e6eee8;
+        --muted: #a3b2a8;
+        --accent: #7cc4a0;
+        --accent-soft: #233229;
+        --line: #2c3a31;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .wrap {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 56px 20px 72px;
+    }
+    header { margin-bottom: 40px; }
+    .avatar {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: var(--accent-soft);
+      color: var(--accent);
+      display: grid;
+      place-items: center;
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.3rem;
+      line-height: 1.15;
+      margin: 0 0 6px;
+    }
+    .school {
+      color: var(--muted);
+      margin: 0 0 18px;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+    .tags li {
+      background: var(--accent-soft);
+      color: var(--accent);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.92rem;
+      font-weight: 600;
+    }
+    h2 {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--muted);
+      margin: 0 0 14px;
+    }
+    .card {
+      display: block;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 22px 24px;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 0.15s ease, transform 0.15s ease;
+    }
+    .card:hover, .card:focus-visible {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+    .card .date {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin: 0 0 6px;
+    }
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 1.3rem;
+      color: var(--accent);
+      line-height: 1.3;
+    }
+    .card p { margin: 0; color: var(--muted); }
+    .card .more {
+      display: inline-block;
+      margin-top: 14px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    footer {
+      margin-top: 56px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="avatar" aria-hidden="true">AC</div>
+      <h1>Aarav Coppisetty</h1>
+      <p class="school">9th grade, Hamilton High School · Sussex, WI</p>
+      <ul class="tags">
+        <li>Aspiring clinical pathologist</li>
+        <li>Programmer</li>
+        <li>Tech enthusiast</li>
+        <li>Dino nerd 🦖</li>
+      </ul>
+    </header>
+ 
+    <main>
+      <h2>Articles</h2>
+      <a class="card" href="publish/lyme-paper-1.html">
+        <p class="date">November 8, 2026</p>
+        <h3>Lyme Disease in Wisconsin: What You Need to Know</h3>
+        <p>By Aarav Coppisetty and Dr. Brooke Crotty. How Lyme disease spread to every Wisconsin county, what warmer weather has to do with it, and how to protect yourself.</p>
+        <span class="more">Read the article →</span>
+      </a>
+    </main>
+ 
+    <footer>© 2026 Aarav Coppisetty</footer>
+  </div>
+</body>
+</html>
+ 
+Claude finished the response
