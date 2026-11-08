@@ -1,6 +1,6 @@
 # Lyme Disease in Wisconsin: What You Need to Know
 
-By Aarav Coppisetty, Dr. Brooke Crotty <br>
+By Aarav Coppisetty, [Dr. Brooke Crotty](https://www.linkedin.com/in/b-crotty/) <br>
 _Published November 8, 2026_
 
 ## TL;DR
@@ -159,9 +159,9 @@ We are currently working on a predictive simulation to better map out the likeli
 
 ## Acknowledgments
 
-Thank you to Dr. Brooke Crotty for mentoring me through this project for over a year and helping me understand how Lyme disease affects the body. Dr. Crotty also checked the medical facts in this article for accuracy and showed me how to apply a centered five-year moving average to the temperature data so the long-term trend would stand out from year-to-year swings.
+Thank you to [Dr. Brooke Crotty](https://www.linkedin.com/in/b-crotty/) for mentoring me through this project for over a year and helping me understand how Lyme disease affects the body. Dr. Crotty also checked the medical facts in this article for accuracy and showed me how to apply a centered five-year moving average to the temperature data so the long-term trend would stand out from year-to-year swings.
 
-Thank you to my mom, Deepthi Rao Coppisetty, for teaching me how to find and analyze public health and climate data. She also taught how to publish this article on GitHub.
+Thank you to my mom, [Deepthi Rao Coppisetty](https://www.linkedin.com/in/cdeepthi/), for teaching me how to find and analyze public health and climate data. She also taught how to publish this article on GitHub.
 
 ## Glossary
 
