@@ -1,6 +1,7 @@
 # Lyme Disease in Wisconsin: What You Need to Know
 
-By Aarav Coppisetty, Dr. Brooke Crotty
+By Aarav Coppisetty, Dr. Brooke Crotty <br>
+_Published November 8, 2026_
 
 Lyme disease has quietly become a Wisconsin problem. According to CDC data, Wisconsin is among the [top 10 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html?CDC_AAref_Val=https://www.cdc.gov/lyme/datasurveillance/index.html#cdc_data_surveillance_section_1-interactive-data) with the highest number of reported Lyme disease cases. Wisconsin had 8,929 cases of Lyme disease in 2025, [the highest on record](https://www.dhs.wisconsin.gov/tick/lyme-data.htm). The goal of this article is to help people in Wisconsin understand Lyme Disease, a fast-spreading, serious illness caused by the bacteria *Borrelia burgdorferi*.
 
