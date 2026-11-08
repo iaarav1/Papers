@@ -148,7 +148,15 @@ The disease is spreading, rising, and still not fully understood.Until science c
 
 Stay safe by avoiding tall grass, checking for ticks whenever possible and spreading the word about ticks and Lyme Disease!
 
-Next Up: We are currently working on a predictive simulation to better map out the likelihood of Lyme and trying to find out how deer-diseases like EHD (Epizootic Hemorrhagic Disease) will interact with Borrelia burgdorferi/Lyme Disease and Ixodes scapularis Tick populations. This will help us further study the correlation between deer population and lyme disease cases alongside increasing urban development and human contact.
+## Next Up
+
+We are currently working on a predictive simulation to better map out the likelihood of Lyme and trying to find out how deer-diseases like EHD (Epizootic Hemorrhagic Disease) will interact with Borrelia burgdorferi/Lyme Disease and Ixodes scapularis Tick populations. This will help us further study the correlation between deer population and lyme disease cases alongside increasing urban development and human contact.
+
+## Acknowledgments
+
+Thank you to Dr. Brooke Crotty for mentoring me through this project for over a year and helping me understand how Lyme disease affects the body. Dr. Crotty also checked the medical facts in this article for accuracy and showed me how to apply a centered five-year moving average to the temperature data so the long-term trend would stand out from year-to-year swings.
+
+Thank you to my mom, Deepthi Rao Coppisetty, for teaching me how to find and analyze public health and climate data. She also taught how to publish this article on GitHub.
 
 ## Glossary
 
@@ -178,6 +186,7 @@ Next Up: We are currently working on a predictive simulation to better map out t
 
 8. Milwaukee Journal Sentinel. (2024). Wisconsin tick population thriving early in 2024 due to warmest winter. Republished by AOL: [https://www.aol.com/news/tick-population-wisconsin-thriving-months-163501355.html](https://www.wuwm.com/environment/2024-03-12/as-wisconsin-winters-warm-its-the-end-of-tick-season-as-we-know-it).
 
-9. Image credits: bullseye rash, [Centers for Disease Control and Prevention](https://www.cdc.gov/lyme/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/lyme/signs_symptoms/index.html); *Borrelia burgdorferi*, [Global Lyme Alliance](https://www.globallymealliance.org/news/yale-scientists-unlock-new-insight-into-the-lyme-disease-bacterium); tick life stages, [LSU AgCenter](https://www.lsuagcenter.com/articles/page1776173280639) (image by [TickEncounter, University of Rhode Island](https://web.uri.edu/tickencounter/)).
+9. Image credits: bullseye rash, [Centers for Disease Control and Prevention](https://www.cdc.gov/lyme/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/lyme/signs_symptoms/index.html); *Borrelia burgdorferi*, [Global Lyme Alliance](https://www.globallymealliance.org/news/yale-scientists-unlock-new-insight-into-the-lyme-disease-bacterium); tick life stages, [LSU AgCenter](https://www.lsuagcenter.com/articles/page1776173280639) (image by [TickEncounter, University of Rhode Island](https://web.uri.edu/tickencounter/).
 
-10. Margos, G., Tsao, J. I., Castillo-Ramirez, S., Girard, Y. A., Hamer, S. A., Hoen, A. G., Lane, R. S., Raper, S. L., & Ogden, N. H. (2012). Two boundaries separate *Borrelia burgdorferi* populations in North America. *Applied and Environmental Microbiology, 78*(17), 6059–6067. [https://doi.org/10.1128/AEM.00231-12](https://doi.org/10.1128/AEM.00231-12). Full text: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3416618/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3416618/)
+11. Margos, G., Tsao, J. I., Castillo-Ramirez, S., Girard, Y. A., Hamer, S. A., Hoen, A. G., Lane, R. S., Raper, S. L., & Ogden, N. H. (2012). Two boundaries separate *Borrelia burgdorferi* populations in North America. *Applied and Environmental Microbiology, 78*(17), 6059–6067. [https://doi.org/10.1128/AEM.00231-12](https://doi.org/10.1128/AEM.00231-12). Full text: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3416618/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3416618/).
+
