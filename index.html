@@ -7,23 +7,27 @@
   <meta name="description" content="Aarav Coppisetty: 9th grader at Hamilton High School in Sussex, WI. Aspiring clinical pathologist, programmer, tech enthusiast and dino nerd.">
   <style>
     :root {
-      --bg: #f5f7f2;
+      --bg: #eef4ff;
       --card: #ffffff;
-      --ink: #1c2a22;
-      --muted: #56665c;
-      --accent: #2f6b4f;
-      --accent-soft: #e3eee6;
-      --line: #dbe4dc;
+      --ink: #0d1b33;
+      --muted: #4d5b72;
+      --accent: #0066ff;
+      --chip: #0066ff;
+      --chip-ink: #ffffff;
+      --accent-soft: #dbe9ff;
+      --line: #c9dcff;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg: #121814;
-        --card: #1b231e;
-        --ink: #e6eee8;
-        --muted: #a3b2a8;
-        --accent: #7cc4a0;
-        --accent-soft: #233229;
-        --line: #2c3a31;
+        --bg: #0b1222;
+        --card: #131e33;
+        --ink: #e8efff;
+        --muted: #a7b6cf;
+        --accent: #6aa8ff;
+        --chip: #0066ff;
+        --chip-ink: #ffffff;
+        --accent-soft: #17284a;
+        --line: #24375c;
       }
     }
     * { box-sizing: border-box; }
@@ -44,8 +48,8 @@
       width: 72px;
       height: 72px;
       border-radius: 50%;
-      background: var(--accent-soft);
-      color: var(--accent);
+      background: var(--chip);
+      color: var(--chip-ink);
       display: grid;
       place-items: center;
       font-size: 1.6rem;
@@ -71,8 +75,8 @@
       list-style: none;
     }
     .tags li {
-      background: var(--accent-soft);
-      color: var(--accent);
+      background: var(--chip);
+      color: var(--chip-ink);
       border-radius: 999px;
       padding: 5px 14px;
       font-size: 0.92rem;
@@ -89,6 +93,7 @@
       display: block;
       background: var(--card);
       border: 1px solid var(--line);
+      border-top: 4px solid var(--chip);
       border-radius: 14px;
       padding: 22px 24px;
       text-decoration: none;
@@ -129,11 +134,11 @@
     <header>
       <div class="avatar" aria-hidden="true">AC</div>
       <h1>Aarav Coppisetty</h1>
-      <p class="school">9th grade, Hamilton High School · Sussex, Wisconsin </p>
+      <p class="school">9th grade, Hamilton High School · Sussex, Wisconsin</p>
       <ul class="tags">
         <li>Aspiring Clinical Pathologist</li>
         <li>Programmer</li>
-        <li>Tech & AI Enthusiast</li>
+        <li>Tech &amp; AI Enthusiast</li>
         <li>Life Long Dino Nerd 🦖</li>
       </ul>
     </header>
