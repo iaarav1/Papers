@@ -5,7 +5,7 @@ _Published November 8, 2026_
 
 ## TL;DR
 
-Lyme disease has quietly become a Wisconsin problem. According to CDC data, Wisconsin is among the [top 10 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html) for reporting Lyme disease cases. This article explains how it spread, why the risk keeps growing, and how to protect yourself.
+Lyme disease has quietly become a Wisconsin problem. According to CDC data, Wisconsin is among the [top 5 states in the U.S.](https://www.cdc.gov/lyme/data-research/facts-stats/surveillance-data-1.html) for reporting Lyme disease cases. This article explains how it spread, why the risk keeps growing, and how to protect yourself.
 
 <img width="763" height="510" alt="Screenshot 2026-11-07 at 4 48 53 PM" src="https://github.com/user-attachments/assets/28896718-1c24-4e6b-b70c-86fe67b73336" /> <br>
 
